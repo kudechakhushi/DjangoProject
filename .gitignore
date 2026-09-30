@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+
+# Django
+db.sqlite3
+media/
+
+# Secret configuration
+config.ini
+env.py
+
+# Environment variables
+.env
